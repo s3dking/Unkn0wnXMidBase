@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS sqltest (
+    content TEXT NOT NULL
+);

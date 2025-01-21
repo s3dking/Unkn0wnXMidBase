@@ -1,0 +1,8 @@
+{
+    "token": "",
+
+    "devguildID": "",
+    "cmdLogChannel": "",
+    "blacklistedUserIds": ["", ""],
+    "prefix": ""
+}

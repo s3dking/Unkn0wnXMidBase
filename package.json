@@ -1,0 +1,10 @@
+{
+    "main": "index.js",
+    "scripts": {
+        "config": "node Utils/ConfigTerminal.js"
+    },
+    "dependencies": {
+        "better-sqlite3": "^11.8.1",
+        "discord.js": "^14.16.3"
+    }
+}
